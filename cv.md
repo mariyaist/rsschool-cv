@@ -1,6 +1,6 @@
 # **Maria Istomina**
 
-## Contacts
+### ***Contacts***
 - E-mail: ist_mary@mail.ru 
 - Phone: +7 (931) 001 47 22
 - [Telegram](https://t.me/mary_ist)
