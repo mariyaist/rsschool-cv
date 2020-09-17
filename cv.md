@@ -3,7 +3,7 @@
 ## Contacts
 - E-mail: ist_mary@mail.ru 
 - Phone: +7 (931) 001 47 22
-
+- [Telegram](https://t.me/mary_ist)
 ## Summary
 Engineer of nanotechnology with 5+ years of experience in creating and researching nanomaterials such as silicon dioxide and colloidal quantum dots. Seeking to leverage my technical and professional expertise to learn and grow in the new role of Web Developer.  I have no development experience, but I am trying to learn and catch up with the basic knowledge for this.  Now days I have started to learn courses at the Rolling Stones School to get new skills in JavaScript, CSS and HTML foe my future career.
 ## Skills
