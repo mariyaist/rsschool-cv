@@ -1,1 +1,1 @@
-https://mariyaist.github.io/rsschool-cv/cv
+https://mariyaist.github.io/rsschool-cv
